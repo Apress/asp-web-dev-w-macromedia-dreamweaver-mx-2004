@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsUpdateBook" value="name:BookID;datatype:int,name:BookTitle;datatype:char,name:BookAuthorFirstName;datatype:char,name:BookAuthorLastName;datatype:char,name:BookPrice;datatype:smallmoney,name:BookISBN;datatype:char,name:BookPageCount;datatype:int,name:BookImage;datatype:char,name:CategoryID;datatype:int" />
+	<infoitem key="UD_rsCategories" value="name:CategoryID;datatype:int,name:Category;datatype:char" />
+</info>

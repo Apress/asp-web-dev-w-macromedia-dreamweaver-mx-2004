@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RequestQString1" value="age" />
+	<infoitem key="UD_requestQStringCount" value="2" />
+	<infoitem key="UD_RequestQString2" value="name" />
+	<infoitem key="UD_RequestForm1" value="username" />
+	<infoitem key="UD_requestFormCount" value="2" />
+	<infoitem key="UD_RequestForm2" value="password" />
+	<infoitem key="UD_RequestCookie1" value="ckHello" />
+	<infoitem key="UD_requestCookieCount" value="1" />
+	<infoitem key="UD_RequestServerVar1" value="remote_host" />
+	<infoitem key="UD_requestServerVarCount" value="1" />
+</info>

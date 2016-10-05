@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Session1" value="svSayGoodbye" />
+	<infoitem key="UD_sessionCount" value="3" />
+	<infoitem key="PageAccessControlMethod" value="useAccessList" />
+	<infoitem key="UD_Session2" value="MM_Username" />
+	<infoitem key="UD_Session3" value="MM_UserAuthorization" />
+	<infoitem key="PageAccessControl" value="Administrator" />
+</info>
